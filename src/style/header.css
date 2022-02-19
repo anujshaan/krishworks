@@ -1,0 +1,41 @@
+.header-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background-color: rgb(94, 94, 94);
+    color: #fff;
+}
+.logo:hover{
+    color: orange;
+    cursor: pointer;
+}
+.header-menu__container{
+    display: flex;
+    align-items: center;
+    
+}
+.header__links{
+    display: flex;
+    margin-right: 4rem;
+}
+.header__links li{
+    margin-right: 50px;
+    cursor: pointer;
+}
+.header__links li:hover{
+    color: orangered;
+}
+.header__button button{
+    padding: 10px 30px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 30px;
+    border:none;
+    background-color: orange;
+    color:#fff;
+    cursor: pointer;
+}
+.header__button button:hover{
+    background-color: rgb(230, 149, 0);
+}

@@ -1,0 +1,35 @@
+.item-container-wrapper{
+    background-color: #e5e5e5;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image-card{
+    background: #fff;
+    width: max-content;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    font-weight: 700;
+}
+.image-card img{
+    width: 200px;
+    height: 220px;
+}
+.image-card h5{
+    color: yellowgreen;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+.image-card p{
+    margin: 10px 0;
+}
+.image-card button{
+    background-color: orange;
+    border: none;
+    padding: 8px 26px;
+    border-radius: 40px;
+    font-size: 14px;
+    cursor: pointer;
+}
