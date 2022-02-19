@@ -4,7 +4,12 @@ import { FaShoppingCart } from "react-icons/fa";
 const ItemCard = ({ item }) => {
   return (
     <div className="image-card">
-      <img src={item.image} alt="" />
+      <div className="image-card_image">
+        <img src={item.image} alt="" />
+        <p className="image-card__description">
+          {item.desc}
+        </p>
+      </div>
       <h5>{item.name}</h5>
       <p>{item.weight} gms</p>
       <p>Rs {item.price}/- </p>

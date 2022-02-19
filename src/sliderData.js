@@ -3,7 +3,7 @@ export const sliderImg =[
         id:1,
         name:'TATA TEA Agni',
         image:'https://www.jiomart.com/images/product/original/490005069/tata-agni-tea-500-g-0-20210401.jpg',
-        desc:'Tata Agni Tea 500 g is your best bet to start your mornings peacefully. Even during work hours or at night, a cup of this tea is just the kick your brain needs. It is made from the finest quality of tea leaves and has a strong aroma to make a perfect cup of tea. So go ahead, buy this product online today!',
+        desc:'Tata Agni Tea 500 g is your best bet to start your mornings peacefully. Even during work hours or at night, a cup of this tea is just the kick your brain needs.',
         price:'450',
         weight:'100'
     },
@@ -11,7 +11,7 @@ export const sliderImg =[
         id:2,
         name:'TATA TEA Premium',
         image:'https://www.jiomart.com/images/product/600x600/490004181/tata-premium-tea-500-g-0-20210922.jpg',
-        desc:'Tata Tea Premium is your best bet to start your mornings peacefully. Even during work hours or at night, a cup of this tea is just the kick your brain needs. It is made from the finest quality of tea leaves and has a strong aroma to make a perfect cup of tea. So go ahead, buy this product online today!',
+        desc:'Tata Tea Premium is your best bet to start your mornings peacefully. Even during work hours or at night, a cup of this tea is just the kick your brain needs. ',
         price:'350',
         weight:'100'
     },

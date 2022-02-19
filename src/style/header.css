@@ -39,3 +39,35 @@
 .header__button button:hover{
     background-color: rgb(230, 149, 0);
 }
+.header__menu-icon, .header__links--navbar{
+    display: none;
+}
+.header__links--navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    background: black;
+    width: 100%;
+    height: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar-close{
+    font-size: 34px;
+    font-weight: 700;
+    text-align: end;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.header__links--navbar li{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+.header__links--navbar{
+
+}
